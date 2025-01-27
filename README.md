@@ -16,11 +16,11 @@ Home page:
 
 Weather Details page:
 
+![Screenshot (136)](https://github.com/user-attachments/assets/6fa76d13-f5b7-4fa5-a384-15d265b05630)
 
-![Screenshot (108)](https://github.com/user-attachments/assets/cef715d6-c358-44fd-9d7d-0f837fada0eb)
+![Screenshot (137)](https://github.com/user-attachments/assets/2cd18907-81c6-4b25-85eb-1ec032c5b6e6)
 
 
-![Screenshot (109)](https://github.com/user-attachments/assets/f5713f20-0b20-4d8e-8494-e9da49ea6c32)
 
 
 
